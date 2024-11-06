@@ -1,0 +1,5 @@
+core-extension/out
+core-extension/dist
+core-extension/node_modules
+core-extension/.vscode-test/
+core-extension/*.vsix
